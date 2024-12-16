@@ -4,6 +4,3 @@ array
  map
  filter
 object
-
-nice
-meri MAYA JINDABAD
